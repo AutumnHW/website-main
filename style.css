@@ -1,0 +1,55 @@
+header{
+    font-family: sans-serif;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(191,191,191,1) 100%);
+    min-height: 50px;
+    margin-top: -65px;
+    margin-left: -10px;
+    color: rgb(255,255,255);
+    font-size:50px;
+    text-indent: 50px;
+
+}
+.logo{
+   position:relative;
+   right:10px;
+   bottom:10px;
+}
+a:link, a:visited{
+    color:white;
+}
+body{
+    background-image: url("background.bmp");
+    background-repeat:no-repeat;
+    background-color:black;
+
+}
+footer {
+background-color: rgb(191, 191, 191);
+margin-top:480px;
+margin-left:-10px
+}
+buttons{
+    margin-top:-10px;
+    width:150px;
+}
+button{
+    border-radius: 15px;
+    display:block;
+    margin-left:-10px;
+    font-size: 25px;
+    color:white;
+    text-align:center;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(191,191,191,1) 100%);
+}
+button:hover{
+    border-radius: 15px;
+    display:block;
+    margin-left:-10px;
+    font-size: 25px;
+    color:white;
+    text-align:center;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(191,191,191,1) 0%, rgba(0,0,0,1) 100%);
+}

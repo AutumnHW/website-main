@@ -1,0 +1,36 @@
+header{
+    background: rgb(0,0,0);
+    font-family: sans-serif;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(191,191,191,1) 100%);
+    min-height: 50px;
+    margin-top: -65px;
+    margin-left: -10px;
+    color: rgb(255,255,255);
+    font-size:50px;
+    text-indent: 50px;
+
+}
+.logo{
+   position:relative;
+   right:10px;
+   bottom:10px;
+}
+body{
+    background-image: url("background.bmp");
+    background-repeat:no-repeat;
+    background-color:black;
+}
+.content{
+    background-color: white;
+    border-radius: 15px;
+    max-width:400px;
+    font-size: 25px;
+}
+footer {
+    background-color: rgb(191, 191, 191);
+    margin-top:480px;
+    margin-left:-10px
+    }
+a:link, a:visited{
+    color:black;
+}
