@@ -1,7 +1,7 @@
 header{
-    background: rgb(0,0,0);
     font-family: sans-serif;
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(191,191,191,1) 100%);
+    background: rgb(91,206,250);
+    background: linear-gradient(90deg, rgba(91,206,250,1) 0%, rgba(245,169,184,1) 25%, rgba(255,255,255,1) 50%, rgba(245,169,184,1) 75%, rgba(91,206,250,1) 100%);
     min-height: 50px;
     margin-top: -65px;
     margin-left: -10px;
@@ -16,9 +16,9 @@ header{
    bottom:10px;
 }
 body{
-    background-image: url("background.bmp");
+    background-image: url("backgrounds/msn3.jpg");
     background-repeat:no-repeat;
-    background-color:black;
+    background-color:rgba(255,164,205,255);;
 }
 .content{
     background-color: white;
