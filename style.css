@@ -21,7 +21,7 @@ a:link, a:visited{
 body{
     background-image: url("backgrounds/msn3.jpg");
     background-repeat:no-repeat;
-    background-color: rgba(255,164,205,255);
+    background-color: rgb(191, 191, 191);
 
 }
 footer {
