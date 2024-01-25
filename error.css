@@ -1,0 +1,36 @@
+header{
+    font-family: sans-serif;
+    background: rgb(91,206,250);
+    background: linear-gradient(90deg, rgba(91,206,250,1) 0%, rgba(245,169,184,1) 25%, rgba(255,255,255,1) 50%, rgba(245,169,184,1) 75%, rgba(91,206,250,1) 100%);
+    min-height: 50px;
+    margin-top: -65px;
+    margin-left: -10px;
+    color: rgb(255,255,255);
+    font-size:50px;
+    text-indent: 50px;
+
+}
+.logo{
+   position:relative;
+   right:10px;
+   bottom:10px;
+}
+body{
+    background-image: url("backgrounds/msn3.jpg");
+    background-repeat:no-repeat;
+    background-color:rgba(255,164,205,255);;
+}
+.content{
+    background-color: white;
+    border-radius: 15px;
+    max-width:400px;
+    font-size: 25px;
+}
+footer {
+    background-color: rgb(191, 191, 191);
+    margin-top:480px;
+    margin-left:-10px
+    }
+a:link, a:visited{
+    color:black;
+}
