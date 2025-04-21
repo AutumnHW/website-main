@@ -1,7 +1,7 @@
 header{
     font-family: sans-serif;
-    background: rgb(91,206,250);
-    background: linear-gradient(90deg, rgba(91,206,250,1) 0%, rgba(245,169,184,1) 25%, rgba(255,255,255,1) 50%, rgba(245,169,184,1) 75%, rgba(91,206,250,1) 100%);
+    background: #000000;
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(132, 132, 132, 1) 29%, rgba(255, 255, 255, 1) 32%, rgba(0, 0, 0, 1) 100%);
     min-height: 50px;
     margin-top: -65px;
     margin-left: -10px;
@@ -19,9 +19,9 @@ a:link, a:visited{
     color:white;
 }
 body{
-    background-image: url("backgrounds/msn3.jpg");
+    background-image: url("backgrounds/bg.JPG");
     background-repeat:no-repeat;
-    background-color: rgba(255,164,205,255);
+    background-color: #848484;
 
 }
 footer {
@@ -40,7 +40,7 @@ button{
     font-size: 25px;
     color:black;
     text-align:center;
-    background: rgba(251,207,231,255);
+    background: #848484;
     
 }
 button:hover{
